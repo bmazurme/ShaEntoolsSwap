@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Entools Swap</Name>
+    <Assembly>Swap.dll</Assembly>
+    <ClientId>a0eed8f4-c80e-4bca-8802-dcb27aff542a</ClientId>
+    <FullClassName>Entools.Model.Swap</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
